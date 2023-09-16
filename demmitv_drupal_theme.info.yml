@@ -1,0 +1,7 @@
+name: demmitv_drupal_theme
+type: theme
+description: demmitv_drupal_theme
+core_version_requirement: ^8 || ^9
+base theme: ish_drupal_theme
+libraries:
+  - demmitv_drupal_theme/base
