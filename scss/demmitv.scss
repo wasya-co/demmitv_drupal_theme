@@ -55,3 +55,9 @@ article {
 .region-header {
   border-bottom: 5px solid orange;
 }
+
+.block-consent-popup {
+  > h2 {
+    display: none;
+  }
+}
